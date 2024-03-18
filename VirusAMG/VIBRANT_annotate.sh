@@ -4,7 +4,7 @@
 
 ##################################################################################
 ## This VIBRANT script was modified for annotating all input contigs, inlcuding
-## those won't be identified as viruses.
+## those won't be identified as viruses by VIBRANT.
 ##
 ## Don't use this script for identifying viral contigs; only for annotation
 ##
