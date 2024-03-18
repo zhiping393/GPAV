@@ -1,10 +1,4 @@
-#PBS -l walltime=48:00:00
-#PBS -l nodes=1:ppn=15
-#PBS -N TaxonomyAssignment
-#PBS -m ae
-#PBS -S /bin/bash
-#PBS -j oe
-#PBS -A PAA0034
+#!/bin/bash
 
 ########################################################################################
 ## this script will generate the genome2gene file and then get vcontact2 outputs
