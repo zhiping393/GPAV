@@ -1,1 +1,1 @@
-Supporting codes for the paper studying ancient viruses in a glacier.
+Supporting codes for a paper studying ancient viruses in a glacier.
