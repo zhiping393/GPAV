@@ -5,7 +5,7 @@
 workDir=~/working_folder/GPAV/metaGs
 cd $workDir
 
-input_file=${workDir}/Accessions_and_SampleName.txt
+input_file=${workDir}/Accessions_and_SampleName.txt # example file was provided.
 
 ## tools
 export PATH=/users/PAS1117/osu7810/software/sratoolkit.2.10.5-ubuntu64/bin:$PATH
