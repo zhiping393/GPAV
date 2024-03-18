@@ -148,7 +148,7 @@ mkdir ${workDir}/Read2RefMapper_output_95-75-50
 
 
 cd ${workDir}/Read2RefMapper_output_95-75-70
-Read2RefMapper-1.1.1.simg --dir ${workDir}/01_bam_files_or --coverage-mode tpmean --num-threads 4 --percent-id 0.95 --percent-aln 0.75  --cov_filter 70
+Read2RefMapper-1.1.1.simg --dir ${workDir}/01_bam_files_or --coverage-mode tpmean --num-threads 4 --percent-id 0.95 --percent-aln 0.75  --cov_filter 70 # used
 
 cd ${workDir}/Read2RefMapper_output_95-75-60
 Read2RefMapper-1.1.1.simg --dir ${workDir}/01_bam_files_or --coverage-mode tpmean --num-threads 4 --percent-id 0.95 --percent-aln 0.75  --cov_filter 60
